@@ -1,3 +1,5 @@
+Play right now on https://stawlie.github.io/ore-clicker/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

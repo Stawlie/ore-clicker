@@ -1,0 +1,53 @@
+.ore {
+  cursor: crosshair;
+  width: 268px;
+  height: 296px;
+
+  &.stone {
+    background: url("stone.png");
+    background-size: cover;
+  }
+
+  &.nether {
+    background: url("Nether.png");
+    background-size: cover;
+  }
+
+  &.coal {
+    background: url("Coal.png");
+    background-size: cover;
+  }
+
+  &.iron {
+    background: url("Iron.png");
+    background-size: cover;
+  }
+
+  &.red-stone {
+    background: url("Redstone.png");
+    background-size: cover;
+  }
+
+  &.gold {
+    background: url("Gold.png");
+    background-size: cover;
+  }
+
+  &.lazuli {
+    background: url("Lazuli.png");
+    background-size: cover;
+  }
+
+  &.diamond {
+    background: url("Diamond.png");
+    background-size: cover;
+  }
+
+  &.emerald {
+    background: url("Emerald.png");
+    background-size: cover;
+  }
+}
+.rotate {
+  transform: rotate(-3deg);
+}

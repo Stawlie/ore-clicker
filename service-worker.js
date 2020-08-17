@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ore-clicker/precache-manifest.02f24e59395e8a3ab61455d13e203332.js"
+  "/ore-clicker/precache-manifest.5139fecbf50f5ab169cb6bbeeb03a10b.js"
 );
 
 self.addEventListener('message', (event) => {

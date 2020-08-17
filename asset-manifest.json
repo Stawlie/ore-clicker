@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ore-clicker/static/css/main.d42928ae.chunk.css",
+    "main.css": "/ore-clicker/static/css/main.11ef90dc.chunk.css",
     "main.js": "/ore-clicker/static/js/main.36e02e32.chunk.js",
     "main.js.map": "/ore-clicker/static/js/main.36e02e32.chunk.js.map",
     "runtime-main.js": "/ore-clicker/static/js/runtime-main.750997a7.js",
@@ -8,16 +8,16 @@
     "static/js/2.b269c3d4.chunk.js": "/ore-clicker/static/js/2.b269c3d4.chunk.js",
     "static/js/2.b269c3d4.chunk.js.map": "/ore-clicker/static/js/2.b269c3d4.chunk.js.map",
     "index.html": "/ore-clicker/index.html",
-    "precache-manifest.02f24e59395e8a3ab61455d13e203332.js": "/ore-clicker/precache-manifest.02f24e59395e8a3ab61455d13e203332.js",
+    "precache-manifest.5139fecbf50f5ab169cb6bbeeb03a10b.js": "/ore-clicker/precache-manifest.5139fecbf50f5ab169cb6bbeeb03a10b.js",
     "service-worker.js": "/ore-clicker/service-worker.js",
-    "static/css/main.d42928ae.chunk.css.map": "/ore-clicker/static/css/main.d42928ae.chunk.css.map",
+    "static/css/main.11ef90dc.chunk.css.map": "/ore-clicker/static/css/main.11ef90dc.chunk.css.map",
     "static/js/2.b269c3d4.chunk.js.LICENSE.txt": "/ore-clicker/static/js/2.b269c3d4.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/ore-clicker/static/media/bg.c02cb9ae.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.750997a7.js",
     "static/js/2.b269c3d4.chunk.js",
-    "static/css/main.d42928ae.chunk.css",
+    "static/css/main.11ef90dc.chunk.css",
     "static/js/main.36e02e32.chunk.js"
   ]
 }

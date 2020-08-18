@@ -19,6 +19,13 @@ function App() {
     let currentMineLvl = mineLvl;
     let currentPickaxeLvl = pickaxeLvl;
 
+    function resetGame() {
+        setMoneyAmount(0)
+        setPickaxeLvl(1)
+        setMineLvl(1)
+        resetStorage()
+    }
+
     function resetStorage() {
         localStorage.setItem('user-info', JSON.stringify({currentMoneyAmount, currentPickaxeLvl, currentMineLvl}))
     }
@@ -86,6 +93,7 @@ function App() {
                     upgradeMine={upgradeMine}
                     renderPickaxeCost={renderNum(pickaxeCost)}
                     renderMineCost={renderNum(mineCost)}
+                    resetGame={resetGame}
                 />
             </div>
         </div>

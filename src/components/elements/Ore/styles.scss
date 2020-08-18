@@ -1,4 +1,5 @@
 .ore {
+  display: flex;
   cursor: crosshair;
   width: 268px;
   height: 296px;
@@ -50,4 +51,28 @@
 }
 .rotate {
   transform: rotate(-3deg);
+}
+@media (max-width: 800px) {
+  .ore {
+    width: 179px;
+    height: 197px;
+  }
+  @media (min-height: 800px) {
+    .ore {
+      width: 268px;
+      height: 296px;
+    }
+  }
+  @media (max-height: 300px) {
+    .ore {
+      width: 67px;
+      height: 74px;
+    }
+  }
+}
+@media (max-height: 632px) {
+  .ore {
+    width: 134px;
+    height: 148px;
+  }
 }

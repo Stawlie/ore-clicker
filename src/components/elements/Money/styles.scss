@@ -2,3 +2,27 @@
   color: black;
   font-size: 50px;
 }
+@media (max-width: 800px) {
+  .money {
+    text-align: center;
+    font-size: 36px;
+  }
+  @media (max-height: 500px) {
+    .money {
+      text-align: center;
+      font-size: 26px;
+    }
+  }
+  @media (min-height: 800px) {
+    .money {
+      text-align: center;
+      font-size: 50px;
+    }
+  }
+}
+@media (max-height: 500px) {
+  .money {
+    text-align: center;
+    font-size: 26px;
+  }
+}

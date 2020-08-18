@@ -26,3 +26,33 @@
     background-color: #ccc;
   }
 }
+@media (max-width: 800px) {
+  .shop-btn {
+    font-size: 16px;
+  }
+  @media (min-height: 800px) {
+    .shop-btn {
+      font-size: 20px;
+    }
+  }
+  @media (max-width: 500px) {
+    .shop-list {
+      flex-direction: column;
+      justify-content: center;
+    }
+    .shop-btn.pickaxe {
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  }
+}
+@media (max-height: 800px) {
+  .shop-btn {
+    font-size: 20px;
+  }
+}
+@media (max-height: 450px) {
+  .shop-btn {
+    font-size: 12px;
+  }
+}

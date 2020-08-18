@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1676a908f3346f2edd86c575dc79b32a",
+    "revision": "2b02f7e017d8f0c21da293fe2b1e29b8",
     "url": "/ore-clicker/index.html"
   },
   {
-    "revision": "a66512ff3847b7c4ecae",
-    "url": "/ore-clicker/static/css/main.11ef90dc.chunk.css"
+    "revision": "322edb92b6e1647c217b",
+    "url": "/ore-clicker/static/css/main.aef472a1.chunk.css"
   },
   {
     "revision": "c128fb7e23eaa47276c8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ore-clicker/static/js/2.b269c3d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a66512ff3847b7c4ecae",
-    "url": "/ore-clicker/static/js/main.36e02e32.chunk.js"
+    "revision": "322edb92b6e1647c217b",
+    "url": "/ore-clicker/static/js/main.eeba1287.chunk.js"
   },
   {
     "revision": "8319722477ed7c2333f2",
